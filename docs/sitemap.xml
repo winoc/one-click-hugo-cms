@@ -3,51 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/brewing-chemex/</loc>
+    <loc>/one-click-hugo-cms/post/brewing-chemex/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jamaica-blue/</loc>
+    <loc>/one-click-hugo-cms/post/jamaica-blue/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/making-sense/</loc>
+    <loc>/one-click-hugo-cms/post/making-sense/</loc>
     <lastmod>2016-12-17T15:04:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/one-click-hugo-cms/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/one-click-hugo-cms/contact/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/one-click-hugo-cms/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/products/</loc>
+    <loc>/one-click-hugo-cms/products/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/one-click-hugo-cms/post/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/one-click-hugo-cms/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/values/</loc>
+    <loc>/one-click-hugo-cms/values/</loc>
   </url>
   
 </urlset>

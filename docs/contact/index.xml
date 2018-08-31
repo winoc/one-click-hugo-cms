@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Homepage</title>
-    <link>/contact/</link>
+    <link>/one-click-hugo-cms/contact/</link>
     <description>Recent content in Contact on Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/one-click-hugo-cms/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
