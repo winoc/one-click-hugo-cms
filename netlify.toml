@@ -5,4 +5,5 @@
   YARN_VERSION = "1.9.4"
 
 [context.deploy-preview]
+  command = "hugo -b winoc.github.io/one-click-hugo-cms/"
   command = "yarn build-preview"
